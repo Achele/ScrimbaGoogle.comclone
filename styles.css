@@ -36,7 +36,6 @@ Give the div a "btn-wrapper" class.
 }
 
 .btn {
-    display: block;
     margin-left: 4px;
     margin-right: 4px;
     margin-top: 30px;
